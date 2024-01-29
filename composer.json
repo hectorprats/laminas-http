@@ -1,5 +1,5 @@
 {
-    "name": "laminas/laminas-http",
+    "name": "hector-prats/laminas-http",
     "description": "Provides an easy interface for performing Hyper-Text Transfer Protocol (HTTP) requests",
     "license": "BSD-3-Clause",
     "keywords": [
@@ -27,7 +27,7 @@
         "laminas/laminas-loader": "^2.10",
         "laminas/laminas-stdlib": "^3.6",
         "laminas/laminas-uri": "^2.11",
-        "laminas/laminas-validator": "^2.15"
+        "hector-prats/laminas-validator": "^2.15"
     },
     "require-dev": {
         "ext-curl": "*",
